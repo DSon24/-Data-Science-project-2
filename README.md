@@ -2,7 +2,7 @@
 
 An exploratory data analysis project examining how residence type, work type, and smoking status relate to recorded stroke status. The notebook uses Python, pandas, SciPy, Matplotlib, and statsmodels on the 5,110-row [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset).
 
-## Research questions
+## Questions
 
 1. Is there a relationship between residence type (urban versus rural) and stroke risk?
 2. Does work type affect stroke risk directly, or is the relationship explained by age, blood pressure, glucose level, or BMI?
