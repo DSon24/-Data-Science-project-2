@@ -28,8 +28,7 @@ This is an observational classroom analysis, not a clinical risk model or a caus
 
 ## Run in Google Colab
 
-1. Open [the notebook](Stroke_data_analysis_(5).ipynb) (or click its **Open in Colab** badge).
-2. Download `healthcare-dataset-stroke-data.csv` from the [dataset page](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset).
-3. Run the notebook and upload the CSV when its upload cell prompts you. Then run the remaining cells in order.
+1. Open [the notebook](Stroke_data_analysis_(5).ipynb) and click its **Open in Colab** badge.
+2. Run the notebook's cells in order. The first data-loading cell installs `kagglehub`, downloads the [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) from Kaggle, and reads the CSV automatically.
 
-The CSV is not included in this repository. Please credit and follow the terms of the original dataset source.
+The CSV is downloaded at runtime and is not stored in this repository. If Kaggle requires consent for access, follow its prompt. The displayed analysis outputs are from the author's earlier run; rerun the notebook to reproduce them.
